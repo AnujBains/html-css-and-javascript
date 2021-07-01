@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment Solution for Module 2</title>
+    <link rel="stylesheet" href="Styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;400&display=swap" rel="stylesheet"></head>
+
+<body>
+    <div class="container">
+        <div class="row">
+
+            <h1 class="menu-title">Our Menu</h1>
+            <div class="col-lg-4">
+                <div class="item">
+                    <div class="item-title" id="title-one">
+                        <h3>Chicken</h3>
+                    </div>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consectetur beatae voluptas magni
+                        temporibus, natus voluptates quibusdam vero aperiam perspiciatis! Omnis ut expedita nisi placeat
+                        mollitia magni rem eius illum?</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="item">
+                    <div class="item-title" id="title-two">
+                        <h3>Beef</h3>
+                    </div>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti exercitationem, vero accusamus
+                        nostrum reiciendis Beatae assumenda nostrum. Ea, nostrum aliquid
+                        corrupti eligendi nulla possimus facere.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-lg-tablet">
+                <div class="item">
+                    <div class="item-title" id="title-three">
+                        <h3>Sushi</h3>
+                    </div>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum doloribus dolore rerum
+                        facere quas expedita reprehenderit porro, quibusdam, modi quis sint voluptates architecto aut
+                        neque aliquam numquam iure amet eos!</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+
+</html>
